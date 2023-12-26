@@ -1,0 +1,84 @@
+[
+    {
+      "img": "https://i.ibb.co/0tMckwk/c.png",
+      "title": "Structure Programming(C/C++)",
+      "description": "Structured programming is a programming paradigm that emphasizes the use of structured control flow constructs for clearer, more maintainable code.",
+      "price":  50,
+      "creditHour": 2
+    },
+    {
+      "img": "https://i.ibb.co/jHy0hqn/ds.png",
+      "title": "Data Structure",
+      "description": "Data structures are specialized formats for organizing and storing data, optimizing data access and modification.",
+      "price": 150,
+      "creditHour": 3
+    },
+    {
+      "img": "https://i.ibb.co/SxzVXDk/algorithm.png",
+      "title": "Algorithm",
+      "description": "An algorithm is a step-by-step approach or set of rules to solve a specific problem or perform a task.",
+      "price": 100,
+      "creditHour": 5
+    },
+    {
+      "img": "https://i.ibb.co/JF1T0HP/oop.png",
+      "title": "Object-Oriented Programming (OOP)",
+      "description": "OOP is a programming paradigm based on the concept of objects, encapsulating data and behavior for more modular and reusable code.",
+      "price": 100,
+      "creditHour": 5
+    },
+    {
+      "img": "https://i.ibb.co/2gmqs8Z/database.png",
+      "title": "Database",
+      "description": "A database is an organized collection of structured information stored electronically, typically to enable efficient data retrieval and management.",
+      "price": 150,
+      "creditHour": 3
+    },
+    {
+      "img": "https://i.ibb.co/nnYfBns/web-programming.png",
+      "title": "Web Programming",
+      "description": "Web programming involves creating applications or websites to be accessed over the internet, requiring a combination of frontend and backend technologies.",
+      "price": 300,
+      "creditHour": 20
+    },
+
+
+    {
+        "img": "https://i.ibb.co/RCMdn7w/Operating-System-kya-hai.jpg",
+        "title": "Operating System",
+        "description": "An operating system is software that manages computer hardware and provides common services for computer programs.",
+        "price": 30,
+        "creditHour": 3
+      },
+      {
+        "img": "https://i.ibb.co/0Vpy4FX/ethical.jpg",
+        "title": "Ethical Hacking",
+        "description": "Ethical hacking involves authorized testing and evaluation of computer systems and software to discover potential security vulnerabilities.",
+        "price": 150,
+        "creditHour": 3
+      },
+      {
+        "img": "https://i.ibb.co/n1MBw7b/cloud-computing.png",
+        "title": "Cloud Computing",
+        "description": "Software engineering is a systematic approach to designing, developing, testing, and maintaining high-quality software systems.",
+        "price": 150,
+        "creditHour": 3
+      },
+      {
+        "img": "https://i.ibb.co/wcgNzfv/71-717243-academy-for-software-engineering-logo-hd-png-download.png",
+        "title": "Software Engineering",
+        "description": "Software engineering is a systematic approach to designing, developing, testing, and maintaining high-quality software systems.",
+        "price": 100,
+        "creditHour": 10
+      },
+      {
+        "img": "https://i.ibb.co/tBSSVGz/coa.png",
+        "title": "Problem Solving Part",
+        "description": "Problem-solving involves using logic and analytical skills to identify, evaluate, and solve challenges or obstacles encountered in various contexts.",
+        "price": 150,
+        "creditHour": 3
+      }
+  ]
+  
+
+
